@@ -1,5 +1,5 @@
 public class Producto() {
-    private String nombre;
+    private string nombre;
 	public String getNombre() {
 		return nombre;
 	}
